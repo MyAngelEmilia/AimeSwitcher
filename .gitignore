@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+dist/
+build/
+*.spec
+aime_switcher_config.json
